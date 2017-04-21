@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle backlog-key",
+        "command": "backlog-key:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "backlog-key",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "backlog-key:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "backlog-key",
+  "main": "./lib/backlog-key",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "backlog-key:toggle"
+  },
+  "repository": "https://github.com/atom/backlog-key",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
