@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "backlog-key:toggle"
+    "ctrl-alt-o": "backlog-key:open-key"
   }
 }
