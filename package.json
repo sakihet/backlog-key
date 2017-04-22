@@ -1,7 +1,7 @@
 {
   "name": "backlog-key",
   "main": "./lib/backlog-key",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "open urls by backlog-key from atom",
   "keywords": [
     "backlog"
@@ -14,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
