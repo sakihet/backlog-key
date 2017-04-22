@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "backlog-key:open-key"
   },
-  "repository": "https://github.com/atom/backlog-key",
+  "repository": "https://github.com/sakihet/backlog-key",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
