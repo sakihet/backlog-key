@@ -2,11 +2,12 @@
   "name": "backlog-key",
   "main": "./lib/backlog-key",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "open urls by backlog-key from atom",
   "keywords": [
+    "backlog"
   ],
   "activationCommands": {
-    "atom-workspace": "backlog-key:toggle"
+    "atom-workspace": "backlog-key:open-key"
   },
   "repository": "https://github.com/atom/backlog-key",
   "license": "MIT",
