@@ -1,5 +1,10 @@
 # backlog-key package
 
-A short description of your package.
+open urls by backlog-key from atom.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## how to use
+
+1. install this atom package
+2. set your space url in settings
+3. move cursor to the line including backlog-key(like `TEST-1`)
+4. you can open the issue's url by `Backlog Key: OpenKey`
